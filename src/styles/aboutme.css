@@ -220,7 +220,7 @@ display: block;
  color: #000;
   margin-left: calc(30% + 20px);
   padding: 20px;
-  position: relative;
+  position: absolute;
 
   height: 79.1%;
   top:20.3%;
