@@ -303,14 +303,7 @@ export default function Addnew() {
                       />
                     </td>
                   </tr>
-                  <tr className="row">
-                    <td> Contract of Employee </td>
-                    <td> <select onChange={handleContractTypeChange}>
-            <option value="Regular"> Fixed term contract</option>
-            <option value="Contract">probationary contract</option>
-            </select></td>
-                  </tr>
-
+               
               
                        
                   {renderContractRow()}
